@@ -44,7 +44,7 @@
   "devDependencies": {
     "@nasa-gcn/eslint-config-gitignore": "^0.0.2",
     "@trivago/prettier-plugin-sort-imports": "^4.2.0",
-    "@tsconfig/node18": "^18.2.4",
+    "@tsconfig/node20": "^20.1.5",
     "@types/mdast": "^4.0.0",
     "@types/node": "^22.0.0",
     "@typescript-eslint/eslint-plugin": "^7.16.1",
@@ -61,7 +61,7 @@
     "typescript": "^5.2.2"
   },
   "engines": {
-    "node": ">=18 <22"
+    "node": ">=20"
   },
   "type": "module",
   "sideEffects": false,
